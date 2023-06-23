@@ -1,4 +1,3 @@
-# BC_failure
 IUD Pregnancies
 Project 1 for Columbia University Lede Program
 
